@@ -1,0 +1,15 @@
+.todos {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+}
+.todos-list {
+  display: flex;
+  justify-content: space-evenly;
+  margin: 3px 0px;
+}
+.bor {
+  border: 3px solid black;
+  border-radius: 10px;
+  margin: 10px;
+}
